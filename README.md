@@ -1,5 +1,8 @@
 # saga-choreography-example
 
+### This application uses KAFKA
+
+
 
 ## request
 ```bash
